@@ -1,0 +1,15 @@
+langchain
+PyPDF2
+python-dotenv
+streamlit
+faiss-cpu
+altair
+tiktoken
+langchain-google-genai
+google-generativeai
+# uncomment to use huggingface llms
+# huggingface-hub==0.14.1
+
+# uncomment to use instructor embeddings
+# InstructorEmbedding==1.0.1
+# sentence-transformers==2.2.2
